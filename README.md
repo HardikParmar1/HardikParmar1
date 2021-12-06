@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am Hardik Parmar , a beginner in the world of web development trying to get hands on coding.
+
+Skills that i have learned so far are HTML, CSS, Javascript, Jquery, NodeJs, ExpressJs, React.
 <!--
 **HardikParmar1/HardikParmar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
